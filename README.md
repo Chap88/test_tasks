@@ -16,6 +16,6 @@ Python с библиотекой Pandas, SQL
 Построить модель для определения принадлежности клиента банка к одной из 7-и групп в зависимости от миинмального остатка средств на карте клиента в споследующем месяце
 
 **Используемые инструменты**<br>
-Python с библиотекой Pandas, Numpy, Seaborn, Scikit-learn, CatBoost
+Python с библиотеками Pandas, Numpy, Seaborn, Scikit-learn, CatBoost
 
 
